@@ -1,0 +1,37 @@
+{
+    "movimientos":[
+        {
+            "id": 1,
+            "description": "Pago de nomina a trabajadores",
+            "price": 18000000,
+            "type": "gasto"
+        },
+        {
+            "id": 2,
+            "description": "pago seguridad social",
+            "price": 4500000,
+            "type": "gasto"  
+        },
+        {
+            "id": 3,
+            "description": "pago arriendo de establecimiento",
+            "price": 8000000,
+            "type": "gasto"
+        },
+        {
+            "id": 4,
+            "description": "pago proveedores de mercancia",
+            "price": 6500000,
+            "type": "gasto"
+        },
+        {
+            "id": 5,
+            "description": "total de ventas en el mes",
+            "price": 100000000,
+            "type": "ingreso"
+        }
+
+
+
+    ]
+}
